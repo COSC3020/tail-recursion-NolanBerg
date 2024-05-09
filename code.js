@@ -1,4 +1,3 @@
-// Tail-recursive function for computing Fibonacci numbers
 function fibonacci(n) {
     return fibonacciHelper(n, 0, 1);
 }
